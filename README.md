@@ -14,9 +14,9 @@ You can install them using pip:
 
 ```bash
 pip install dataprep pymongo lazypredict
-
 ```
 
+```bash
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -29,6 +29,7 @@ from lazypredict.Supervised import LazyRegressor, LazyClassifier
 import pickle
 import pymongo
 import lazypredict
+```
 
 ## Connections
 Establish connections to external data sources such as Google Drive and MongoDB as required for your project.
