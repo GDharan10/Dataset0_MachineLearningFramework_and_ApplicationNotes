@@ -2,8 +2,6 @@
 
 This Jupyter Notebook provides a structured framework for data preprocessing, including data loading, cleaning, preprocessing, machine learning model training, and deployment. It outlines the main steps involved in the data analysis and machine learning pipeline.
 
-# README
-
 ## Table of Contents
 1. [Installation](#installation)
 2. [Libraries](#libraries)
