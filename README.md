@@ -16,7 +16,7 @@ This Jupyter Notebook provides a structured framework for data preprocessing, in
 9. [Data Visualization](#data-visualization)
 10. [Data Preprocessing](#data-preprocessing)
     - [Data Cleaning](#data-cleaning)
-    - [Handling Unrequired Data](#handling-unrequired-data)
+        - [Handling Unrequired Data](#handling-unrequired-data)
     - [Handling Incorrect Format](#handling-incorrect-format)
     - [Handling Missing Values](#handling-missing-values)
     - [Handling Date and Time](#handling-date-and-time)
