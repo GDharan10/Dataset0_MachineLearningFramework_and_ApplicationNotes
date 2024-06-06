@@ -68,6 +68,7 @@ Import statements for all libraries used in the workflow.
 
 ## Connections
 Code snippets for connecting to external services.
+
 e.g., database connections, API integrations
 
 ## Flow of Machine Learning
